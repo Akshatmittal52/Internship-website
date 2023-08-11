@@ -1,0 +1,107 @@
+.About{
+    margin-top: 80px;
+    background-color: #ececee;
+    height: 450px;
+    position: relative;
+    z-index: -1;
+    border-radius:0 200px 200px 0px;
+   right: 80px;
+   bottom: 50px;
+   padding-left: 100px;
+   padding-top: 10px;
+   text-align:justify;
+   text-justify: inter-word;
+  
+}
+img{
+    height: 500px;
+}
+
+.DP{
+    height: 400px;
+}
+
+
+h1 {
+    text-align: center;
+  }
+
+.h2
+{
+    text-align: center;
+    padding-top:40px;
+}
+.img1{
+    height: 270px;
+}
+
+.msg
+{
+    width: 600px;
+    padding-bottom: 15%;
+    background-color: #ececee;
+    padding-top: 2%;
+    margin-top: 5%;
+}
+
+.input{
+    width: 600px;
+    padding-top: 2%;
+    margin-top: 5%;
+    background-color: #ececee;
+}
+
+
+::placeholder {
+    padding-left: 6px;
+    padding-bottom: 5px;
+  }
+
+form{
+    margin-top: 20%;
+}
+
+p{
+    padding: 50px;
+}
+
+hr {
+    margin: 12px 0;
+    border: 0;
+    text-align: center;
+    color: #4F8BCA;
+    content: "\2022 \2022 \2022";
+  }
+
+.team
+{
+    background-color: #222;
+    min-height: 100vh;
+    width: 100vw;
+    text-align: center;
+   
+}
+
+
+.faq
+{
+    margin-top: 70px;
+}
+.faqimage
+{
+    height: 400px;
+    width: 400px;
+    margin-left: 200px;
+}
+
+.button{
+   position: relative;
+   left: 70%;
+   bottom: 10%;
+}
+
+.formimg
+{
+    align-items: center;
+    margin-top: 100px;
+}
