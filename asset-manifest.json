@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Internship-website/static/css/main.e24ca994.css",
+    "main.js": "/Internship-website/static/js/main.5aab2c66.js",
+    "static/media/data.jpeg": "/Internship-website/static/media/data.e7c4fa6ec76a9a4dfbba.jpeg",
+    "static/media/cloudimage.jpeg": "/Internship-website/static/media/cloudimage.6b7f967229f218abedd8.jpeg",
+    "static/media/app.webp": "/Internship-website/static/media/app.f021a7a898380cb695d3.webp",
+    "static/media/appdev.jpeg": "/Internship-website/static/media/appdev.c8f84796ee38c0cd762d.jpeg",
+    "static/media/data.webp": "/Internship-website/static/media/data.e66632da2180ce12ce5d.webp",
+    "static/media/Aditya.jpeg": "/Internship-website/static/media/Aditya.821ec7276dce84a44316.jpeg",
+    "static/media/faq.jpeg": "/Internship-website/static/media/faq.97399c1f062679c28a8e.jpeg",
+    "static/media/contact.jpeg": "/Internship-website/static/media/contact.7c8a8e2777b85df629a9.jpeg",
+    "static/media/graphic.jpeg": "/Internship-website/static/media/graphic.8f865e69ba8b362033ba.jpeg",
+    "static/media/ml.jpeg": "/Internship-website/static/media/ml.152f684e5ac0c54e8740.jpeg",
+    "static/media/Akshat.jpeg": "/Internship-website/static/media/Akshat.78828e6d8d9fafa0e454.jpeg",
+    "static/media/ai.jpeg": "/Internship-website/static/media/ai.7f3bcd141f2e45fcc830.jpeg",
+    "static/media/Prem.jpeg": "/Internship-website/static/media/Prem.871b5ee22a58a18578b1.jpeg",
+    "static/media/cloud.jpeg": "/Internship-website/static/media/cloud.076367ccd2a7c010cce0.jpeg",
+    "static/media/intern.jpeg": "/Internship-website/static/media/intern.041d077d0adb4ac83b31.jpeg",
+    "static/media/Affan.jpeg": "/Internship-website/static/media/Affan.2767e3a5305f65aa6c51.jpeg",
+    "static/media/webdev.png": "/Internship-website/static/media/webdev.8ff2b76d7e3c6d02052b.png",
+    "static/media/web.jpeg": "/Internship-website/static/media/web.9680b5b02c4187d5c3fa.jpeg",
+    "index.html": "/Internship-website/index.html",
+    "main.e24ca994.css.map": "/Internship-website/static/css/main.e24ca994.css.map",
+    "main.5aab2c66.js.map": "/Internship-website/static/js/main.5aab2c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e24ca994.css",
+    "static/js/main.5aab2c66.js"
+  ]
+}
